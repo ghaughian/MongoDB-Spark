@@ -1,6 +1,11 @@
 *.class
 *.log
 
+#
+data/
+mdbw17/
+dev/
+
 # sbt specific
 .cache
 .history
